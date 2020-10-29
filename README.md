@@ -1,5 +1,6 @@
-![High Hopes](https://highhopes.fr/views/logo/grey.svg)
-![Tools](https://highhopes.fr/views/projects/tools/logo/grey.svg)
+<img style="width:20%" src="https://highhopes.fr/views/logo/grey.svg" alt="High Hopes"><br>
+<img style="width:30%" src="https://highhopes.fr/views/projects/tools/logo/grey.svg" alt="Tools"><br>
+
 
 Python package for physics modeling.
 
