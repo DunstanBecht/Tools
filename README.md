@@ -19,6 +19,7 @@
   <img src="https://highhopes.fr/views/projects/tools/pictures/3.svg" alt="Tools">
   Stars orbiting a supermassive black hole.
   <br>
+  <br>
 </div>
 
 For each example you can :
@@ -26,6 +27,8 @@ For each example you can :
 * Edit Settings.py to change the settings.
 * Launch Process.py to generate a new simulation.
 * Launch Display.py to display the simulation.
+
+[Project report available on highhopes.fr](https://highhopes.fr/views/projects/tools/report/Tools.pdf) for a better understanding of the code.
 
 <div align="center">
   <br>
