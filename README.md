@@ -28,7 +28,7 @@ For each example you can :
 * Launch Process.py to generate a new simulation.
 * Launch Display.py to display the simulation.
 
-The package allows the export in pdf and mp4 of simulated experiences. It may be interesting to rework the exported files with [Inkscape](https://inkscape.org/). Here is an example of a study of an antihydrogen magnetic trap (see [ALPHA experiment](https://alpha.web.cern.ch/)).
+The simulated experiences can be exported in pdf and mp4. It may be interesting to rework the exported files with [Inkscape](https://inkscape.org/). Here is an example of a study of an antimatter magnetic trap (see [ALPHA experiment](https://alpha.web.cern.ch/)).
 
 <div align="center">
   <br>
@@ -49,7 +49,7 @@ The package allows the export in pdf and mp4 of simulated experiences. It may be
   <br>
   <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/E.svg" width="600" alt="Tools"><br>
-  Magnetic field norm in central cut. (Octupolar coil not displayed)
+  Logarithm of the magnetic field norm in longitudinal cut. (Octupolar coil not displayed)
   <br>
   <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" width="600" alt="Tools"><br>
