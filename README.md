@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300"" src="https://highhopes.fr/views/projects/tools/logo/grey.svg" alt="Tools"><br>
+  <img width="300" src="https://highhopes.fr/views/projects/tools/logo/grey.svg" alt="Tools"><br>
   Python package for physics modeling.
   <br>
   <br>
@@ -31,27 +31,27 @@ For each example you can :
 The package allows the export in pdf and mp4 format of simulated experiences. Here is an example of a study of an antihydrogen magnetic trap. (see ALPHA experiment)
 
 <div align="center">
-  <img src="https://highhopes.fr/views/projects/tools/pictures/A.svg" alt="Tools"><br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/A.svg" width="600" alt="Tools"><br>
   Trap geometry.
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/B.svg" alt="Tools"><br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/B.svg" width="600" alt="Tools"><br>
   Generated magnetic field. (Cut 1 / Normalized)
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/C.svg" alt="Tools"><br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/C.svg" width="600" alt="Tools"><br>
   Generated magnetic field. (Cut 2 / Normalized)
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/D.svg" alt="Tools"><br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/D.svg" width="600" alt="Tools"><br>
   Generated magnetic field. (Cut 3 / Not normalized)
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/E.svg" alt="Tools"><br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/E.svg" width="600" alt="Tools"><br>
   Magnetic field norm in central cut.
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" alt="Tools"><br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" width="600" alt="Tools"><br>
   Trajectory of the anti-hydrogen with sinusoidal magnetic field.
   <br>
   <br>
