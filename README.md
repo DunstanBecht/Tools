@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300"" src="https://highhopes.fr/views/projects/tools/logo/grey.svg" alt="Tools"><br>
+  <img width="300" src="https://highhopes.fr/views/projects/tools/logo/grey.svg" alt="Tools"><br>
   Python package for physics modeling.
   <br>
   <br>
@@ -27,6 +27,37 @@ For each example you can :
 * Edit Settings.py to change the settings.
 * Launch Process.py to generate a new simulation.
 * Launch Display.py to display the simulation.
+
+The simulated experiences can be exported in pdf and mp4. It may be interesting to rework the exported files with [Inkscape](https://inkscape.org/). Here is an example of a study of an antimatter magnetic trap (see [ALPHA experiment](https://alpha.web.cern.ch/)).
+
+<div align="center">
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/A.svg" width="600" alt="Tools"><br>
+  Trap geometry.
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/B.svg" width="600" alt="Tools"><br>
+  Generated magnetic field. (Cut 1 / Normalized / Octupolar coil not displayed)
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/C.svg" width="600" alt="Tools"><br>
+  Generated magnetic field. (Cut 2 / Normalized / Octupolar coil not displayed)
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/D.svg" width="600" alt="Tools"><br>
+  Generated magnetic field. (Cut 3 / Not normalized)
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/E.svg" width="600" alt="Tools"><br>
+  Logarithm of the magnetic field norm in longitudinal cut. (Octupolar coil not displayed)
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" width="600" alt="Tools"><br>
+  Trajectory of the anti-hydrogen with sinusoidal magnetic field.
+  <br>
+  <br>
+  <br>
+</div>
 
 [Project report available on highhopes.fr](https://highhopes.fr/views/projects/tools/report/Tools.pdf) for a better understanding of the code.
 
