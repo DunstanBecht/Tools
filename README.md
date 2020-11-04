@@ -28,7 +28,7 @@ For each example you can :
 * Launch Process.py to generate a new simulation.
 * Launch Display.py to display the simulation.
 
-The package allows the export in pdf and mp4 format of simulated experiences. Here is an example of a study of an antihydrogen magnetic trap (see [ALPHA experiment](https://alpha.web.cern.ch/)).
+The package allows the export in pdf and mp4 of simulated experiences. It may be interesting to rework the exported files with [Inkscape](https://inkscape.org/). Here is an example of a study of an antihydrogen magnetic trap (see [ALPHA experiment](https://alpha.web.cern.ch/)).
 
 <div align="center">
   <br>
@@ -37,11 +37,11 @@ The package allows the export in pdf and mp4 format of simulated experiences. He
   <br>
   <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/B.svg" width="600" alt="Tools"><br>
-  Generated magnetic field. (Cut 1 / Normalized)
+  Generated magnetic field. (Cut 1 / Normalized / Octupolar coil not displayed)
   <br>
   <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/C.svg" width="600" alt="Tools"><br>
-  Generated magnetic field. (Cut 2 / Normalized)
+  Generated magnetic field. (Cut 2 / Normalized / Octupolar coil not displayed)
   <br>
   <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/D.svg" width="600" alt="Tools"><br>
@@ -49,7 +49,7 @@ The package allows the export in pdf and mp4 format of simulated experiences. He
   <br>
   <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/E.svg" width="600" alt="Tools"><br>
-  Magnetic field norm in central cut.
+  Magnetic field norm in central cut. (Octupolar coil not displayed)
   <br>
   <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" width="600" alt="Tools"><br>
