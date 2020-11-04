@@ -28,6 +28,35 @@ For each example you can :
 * Launch Process.py to generate a new simulation.
 * Launch Display.py to display the simulation.
 
+The package allows the export in pdf and mp4 format of simulated experiences. Here is an example of a study of an antihydrogen magnetic trap. (see ALPHA experiment)
+
+<div align="center">
+  <img src="https://highhopes.fr/views/projects/tools/pictures/A.svg" alt="Tools">
+  Trap geometry.
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/B.svg" alt="Tools">
+  Generated magnetic field. (Cut 1 / Normalized)
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/C.svg" alt="Tools">
+  Generated magnetic field. (Cut 2 / Normalized)
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/D.svg" alt="Tools">
+  Generated magnetic field. (Cut 3 / Not normalized)
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/E.svg" alt="Tools">
+  Magnetic field norm in central cut.
+  <br>
+  <br>
+  <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" alt="Tools">
+  Trajectory of the anti-hydrogen with sinusoidal magnetic field.
+  <br>
+  <br>
+</div>
+
 [Project report available on highhopes.fr](https://highhopes.fr/views/projects/tools/report/Tools.pdf) for a better understanding of the code.
 
 <div align="center">
