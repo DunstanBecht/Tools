@@ -28,9 +28,10 @@ For each example you can :
 * Launch Process.py to generate a new simulation.
 * Launch Display.py to display the simulation.
 
-The package allows the export in pdf and mp4 format of simulated experiences. Here is an example of a study of an antihydrogen magnetic trap. (see ALPHA experiment)
+The package allows the export in pdf and mp4 format of simulated experiences. Here is an example of a study of an antihydrogen magnetic trap (see [ALPHA experiment](https://alpha.web.cern.ch/)).
 
 <div align="center">
+  <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/A.svg" width="600" alt="Tools"><br>
   Trap geometry.
   <br>
@@ -53,6 +54,7 @@ The package allows the export in pdf and mp4 format of simulated experiences. He
   <br>
   <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" width="600" alt="Tools"><br>
   Trajectory of the anti-hydrogen with sinusoidal magnetic field.
+  <br>
   <br>
   <br>
 </div>
