@@ -31,27 +31,27 @@ For each example you can :
 The package allows the export in pdf and mp4 format of simulated experiences. Here is an example of a study of an antihydrogen magnetic trap. (see ALPHA experiment)
 
 <div align="center">
-  <img src="https://highhopes.fr/views/projects/tools/pictures/A.svg" alt="Tools">
+  <img src="https://highhopes.fr/views/projects/tools/pictures/A.svg" alt="Tools"><br>
   Trap geometry.
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/B.svg" alt="Tools">
+  <img src="https://highhopes.fr/views/projects/tools/pictures/B.svg" alt="Tools"><br>
   Generated magnetic field. (Cut 1 / Normalized)
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/C.svg" alt="Tools">
+  <img src="https://highhopes.fr/views/projects/tools/pictures/C.svg" alt="Tools"><br>
   Generated magnetic field. (Cut 2 / Normalized)
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/D.svg" alt="Tools">
+  <img src="https://highhopes.fr/views/projects/tools/pictures/D.svg" alt="Tools"><br>
   Generated magnetic field. (Cut 3 / Not normalized)
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/E.svg" alt="Tools">
+  <img src="https://highhopes.fr/views/projects/tools/pictures/E.svg" alt="Tools"><br>
   Magnetic field norm in central cut.
   <br>
   <br>
-  <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" alt="Tools">
+  <img src="https://highhopes.fr/views/projects/tools/pictures/F.svg" alt="Tools"><br>
   Trajectory of the anti-hydrogen with sinusoidal magnetic field.
   <br>
   <br>
